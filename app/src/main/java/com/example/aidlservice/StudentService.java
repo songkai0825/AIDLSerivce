@@ -6,7 +6,7 @@ import android.os.IBinder;
 import android.util.Log;
 
 import com.example.aidlservice.aidl.IStudent;
-import com.example.aidlservice.aidl.StudtInfo;
+import com.example.aidlservice.aidl.student.StudtInfo;
 
 public class StudentService extends Service {
 
